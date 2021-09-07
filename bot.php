@@ -2,7 +2,9 @@
 
 // Dibangunkan oleh xIdontknow
 
-// GANTIKAN BOT TOKEN ANDA PADA LINE 7 DAN 95
+// GANTIKAN BOT TOKEN ANDA PADA LINE 9 DAN 97
+
+error_reporting(0);
 
 define('BOT_TOKEN', 'GANTI SINI'); // GANTI SINI 
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
